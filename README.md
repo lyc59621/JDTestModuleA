@@ -1,2 +1,1 @@
-# JDTestModuleA
-组件TestA
+pod "JDTestModuleA"
